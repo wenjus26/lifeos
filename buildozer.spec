@@ -43,8 +43,8 @@ android.api = 35
 # (int) Minimum API your APP will support.
 android.minapi = 26
 
-# (str) Android NDK version to use
-android.ndk = 28.2.13676358
+# (str) Android NDK version to use (let empty to use the default supported by p4a)
+# android.ndk = 25b
 
 # (bool) Use --private data storage (True) or --dir public storage (False)
 android.private_storage = True
