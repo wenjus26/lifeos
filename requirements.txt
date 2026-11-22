@@ -1,0 +1,5 @@
+# LifeOS - Dépendances Python
+kivy==2.3.2
+kivymd==2.0.0
+pytest==9.1.1
+pillow>=10.0.0
